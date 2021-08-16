@@ -11,8 +11,8 @@ public class FunctionalProgramming02 {
 	 	EX =>   			String 	   :: Length
 	 						ArrayList  ::	size
 	 */
-	hello
-
+	
+	hello from the other side
 	public static void main(String[] args) {
 		List<Integer> l = new ArrayList<Integer>();
         l.add(12);
