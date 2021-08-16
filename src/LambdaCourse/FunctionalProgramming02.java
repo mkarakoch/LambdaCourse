@@ -11,6 +11,7 @@ public class FunctionalProgramming02 {
 	 	EX =>   			String 	   :: Length
 	 						ArrayList  ::	size
 	 */
+	hello
 
 	public static void main(String[] args) {
 		List<Integer> l = new ArrayList<Integer>();
