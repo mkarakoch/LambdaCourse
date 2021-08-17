@@ -1,0 +1,6 @@
+LambdaTextFile.txt
+9:17
+Java is about to end.
+If you get used to use Lambda everything will be easier.
+Using Lambda means selecting appropriate methods.
+Be sure, everyone in Java will use Lambda by the time.
